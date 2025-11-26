@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Togay!<br> 
-A passionate Front-End React Developer based in Turkey 📍
+A passionate AI product manager based in Turkey 📍
 
 <br> 
 
